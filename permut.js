@@ -1,5 +1,6 @@
 teste
 function permut(n) {
+    abcdefg
     var result = [];
     if(n.length == 1){
       return n;
