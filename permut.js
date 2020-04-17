@@ -12,5 +12,6 @@ function permut(n) {
         result.push('' + focus + innerpermut[j]);
       }
     }
+    asdagadsghhfd
     return result;
   }
