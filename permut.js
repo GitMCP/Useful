@@ -1,3 +1,4 @@
+//teste
 function permut(n) {
     var result = [];
     if(n.length == 1){
